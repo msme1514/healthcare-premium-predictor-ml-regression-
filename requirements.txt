@@ -1,5 +1,10 @@
-streamlit
-scikit-learn
-pandas
-numpy
-joblib
+fastapi==0.115.12
+joblib==1.4.2
+numpy==2.2.4
+pandas==2.2.3
+prettier==0.0.7
+pydeck==0.9.1
+scikit-learn==1.6.1
+scipy==1.15.2
+streamlit==1.44.1
+xgboost==3.0.0
